@@ -39,7 +39,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
+<br />
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
 [<img align="left" alt="ANDROID" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png" />]
@@ -48,9 +48,10 @@
 [<img align="left" alt="SAS" width="26px" src="https://user-images.githubusercontent.com/15411956/128593504-83c87299-8679-4b66-937c-7294af3c7ce4.png" />]
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
-
-[<img align="left" alt="AI" width="52px" src="https://user-images.githubusercontent.com/15411956/128593594-579451a5-d30b-4d0c-b6cf-6d72d8139402.png" />]
-[<img align="left" alt="ML" width="26px" src="https://user-images.githubusercontent.com/15411956/128593698-78af6b19-1733-4581-97d9-eea969668608.png" />]
+<br />
+[<img align="left" alt="AI" width="60px" src="https://user-images.githubusercontent.com/15411956/128593594-579451a5-d30b-4d0c-b6cf-6d72d8139402.png" />]
+<br />
+[<img align="left" alt="ML" width="60px" src="https://user-images.githubusercontent.com/15411956/128593698-78af6b19-1733-4581-97d9-eea969668608.png" />]
  
   
   <br />
